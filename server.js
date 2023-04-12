@@ -6,9 +6,9 @@
 * 
 *  Name: Aryan Rakeshbhai Rathod Student ID:129796215 Date: 29-03-2023
 *
-*  Cyclic Web App URL: 
+*  Cyclic Web App URL: https://pink-fuzzy-python.cyclic.app
 *
-*  GitHub Repository URL: 
+*  GitHub Repository URL: https://github.com/Aryan26101/Web322-Asignment-6
 *
 ********************************************************************************/ 
 
